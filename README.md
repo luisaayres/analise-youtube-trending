@@ -1,6 +1,6 @@
 # 📊 Análise de Vídeos de Tendências no YouTube
 
-## 📌 Sobre o projeto
+## 📌 Sobre o Projeto
 
 Este projeto tem como objetivo analisar os vídeos que estiveram em alta no YouTube por país, categoria e data, entre 14/11/2017 e 14/06/2018.
 
@@ -17,7 +17,7 @@ A análise e o dashboard foram desenvolvidos para responder às seguintes pergun
 - Quais categorias são especialmente populares nos Estados Unidos?
 - Existem diferenças entre as categorias mais populares nos EUA e as observadas em outros lugares?
 
-## 🔎 Análise realizada
+## 🔎 Análise Realizada
 
 Para responder às perguntas propostas, foram analisados os dados de vídeos em alta considerando suas categorias e regiões.
 
@@ -25,13 +25,20 @@ A análise explorou a frequência das categorias, sua distribuição entre os me
 
 Os resultados foram apresentados por meio de visualizações e de um dashboard interativo desenvolvido no Tableau Public.
 
-## 📊 Principais insights
+## 📊 Principais Insights
 
 - **Entertainment** apresentou forte presença entre os vídeos em alta em diferentes mercados, destacando-se como uma categoria de alcance global.
 - Os padrões de popularidade variaram entre as regiões, indicando que o comportamento do público não é uniforme entre os mercados.
 - Nos **Estados Unidos**, destacaram-se categorias como **Music** e **Howto & Style**.
 - A comparação entre os mercados mostrou que algumas categorias possuem maior relevância regional, como **People & Blogs** na Rússia e **News & Politics** na Índia.
 - Também foram identificados nichos com desempenho regional específico, como **Autos e Vehicles** na Rússia.
+
+## 💡 Recomendações
+
+- Adaptar a estratégia de conteúdo às preferências de cada região, evitando uma abordagem única para todos os mercados.
+- Manter **Entertainment** como uma categoria relevante na estratégia global, devido à sua liderança na maioria dos mercados.
+- Nos Estados Unidos, ampliar **Music** e **Howto & Style**; na Rússia, **People & Blogs**; e na Índia, **News & Politics**
+- Considerar particularidades regionais ao definir estratégias de conteúdo e distribuição.
 
 ## 📊 Dashboard
 
